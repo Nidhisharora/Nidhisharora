@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d1a3f42-5be7-4d83-b3df-3a2b2c4d1c48.gif" width="500"/>
 
 </div>
 <p align="center">A passionate developer exploring web tech, DSA, and modern software engineering</p>
