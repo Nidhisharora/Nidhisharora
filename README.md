@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nidhish Arora</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" />
-  
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="400" />
+
+<h1>Hi 👋, I'm Nidhish Arora</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Developer" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="400"/>
+
 </div>
 <p align="center">A passionate developer exploring web tech, DSA, and modern software engineering</p>
 
