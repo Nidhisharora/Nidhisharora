@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d1a3f42-5be7-4d83-b3df-3a2b2c4d1c48.gif" width="500"/>
+<img src="https://www.freepik.com/free-ai-image/person-playing-3d-video-games-device_94950229.htm#fromView=keyword&page=1&position=1&uuid=8c72d5a8-174a-45ae-a93c-b26231fc0872&query=Coding+gif" width="500"/>
 
 </div>
 <p align="center">A passionate developer exploring web tech, DSA, and modern software engineering</p>
