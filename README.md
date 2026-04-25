@@ -1,8 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Nidhish Arora</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Developer" />
+<img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd4OGZjb2c1MjluazAzdmZhM3c3MWVuNDA1eHF6dDZkMGZqNGE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="220" />
 
 
 
